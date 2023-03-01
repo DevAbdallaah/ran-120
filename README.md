@@ -1,2 +1,1 @@
-# ran-120
-ran
+# MULTIPLICATION TABLE
